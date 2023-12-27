@@ -1,6 +1,6 @@
 <?php 
     $dbhost = 'localhost';
-    $dbname = 'bk_poliklinik';
+    $dbname = 'bk-poliklinik';
     $dbusername = 'root';
     $dbpassword = '';
 
